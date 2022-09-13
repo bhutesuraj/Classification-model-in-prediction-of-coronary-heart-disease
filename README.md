@@ -1,4 +1,6 @@
-# Classification-model-in-prediction-of-coronary-heart-disease
+# Course Name: Biomedical Imaging Informatics [MM60024]
+## Implementation of a classification model in prediction of coronary heart disease - Course Project: Prof. Debashree Guha Adhya [Mar’22-Apr’22]
+
 
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. 
 
